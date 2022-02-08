@@ -1,0 +1,10 @@
+.darkmode button{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 20px;
+    background: white;
+}
+html.darkmode{
+    filter: invert(100%);
+}
